@@ -1,0 +1,29 @@
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(126, 126, 126);
+    margin: 50px auto;
+    text-align: center;
+}
+header{
+    font-size: 50px;
+    color: rgb(251, 255, 0);
+}
+.boxs{
+display: flex;
+justify-content: space-evenly;
+margin-top: 50px;
+}
+.box{
+    width: 120px;
+    height: 120px;
+    background: rgb(179, 7, 7);
+    color: aliceblue;
+    font-size: 40px;
+    line-height: 120px;
+    border-radius: 10px;
+}
+.time{
+    color: pink;
+    font-size: 35px;
+}
